@@ -51,4 +51,6 @@ npm run serve
 ```
 
 ## Как выглядит интерфейс?
-![Снимок экрана 2022-11-01 в 01 12 40](https://user-images.githubusercontent.com/75445403/199278133-f831896e-3d03-4b59-8b63-7342d55e5a1e.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75445403/199278133-f831896e-3d03-4b59-8b63-7342d55e5a1e.png" />
+</p>
